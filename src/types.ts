@@ -13,23 +13,65 @@
  *
  **********************************************************************/
 
+
 export interface Frame1038Props {
   className?: any;
 }
+
+
+export interface TransactionRowProps {
+  className?: any;
+}
+
+
+export interface MenuProps {
+  className?: any;
+}
+
+
+export interface MenuItemProps {
+  className?: any;
+}
+
+
+export interface Input1Props {
+  className?: any;
+}
+
+
+export interface TableProps {
+  className?: any;
+}
+
+
+export interface CellProps {
+  className?: any;
+}
+
+
+export interface Badge1Props {
+  className?: any;
+}
+
+
+
+
+export interface MenuProps {
+  className?: any;
+}
+
 
 export interface BalanceCardProps {
   className?: any;
   prop1: any;
 }
 
+
 export interface PlCardProps {
   className?: any;
 }
 
-export interface TransactionsCardProps {
-  className?: any;
-}
 
-export interface TransactionRowProps {
+export interface TransactionsCardProps {
   className?: any;
 }
