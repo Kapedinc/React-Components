@@ -49,6 +49,6 @@
     ]
   },
     "publishConfig": {
-    "@kapedinc:registry": "https://npm.pkg.github.com"
+    "@VashonG:registry": "https://npm.pkg.github.com"
   }
 }
